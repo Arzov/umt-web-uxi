@@ -1,0 +1,20 @@
+# uxi
+3x
+*.png
+*.jpg
+*.jpeg
+*.ico
+*.gif
+
+# whitelist
+!franco_profile_bw_512x512.jpg
+!jesus_profile_bw_512x512.jpg
+!matias_profile_bw_512x512.jpg
+!cup.png
+!football_shoes.png
+!key.png
+!lock.png
+!mailbox.png
+!soccer_ball.png
+!stadium.png
+!whistle.png
